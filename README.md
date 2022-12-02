@@ -1,1 +1,84 @@
-# kyomi1.github.io
+<!DOCTYPE html>
+<html>
+<style>
+body {background-color: lightpink;}
+p   {color: whitesmoke;}
+h1   {color: whitesmoke;}
+h5  {color: whitesmoke;}
+h4  {color: whitesmoke;}
+h3  {color: whitesmoke;}
+blockquote {color: whitesmoke;}
+</style>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    div.scrollmenu {
+      background-color: lightpink;
+      overflow: auto;
+      white-space: nowrap;
+    }
+    
+    div.scrollmenu a {
+      display: inline-block;
+      color: white;
+      text-align: center;
+      padding: 14px;
+      text-decoration: none;
+    }
+    
+    div.scrollmenu a:hover {
+      background-color: black;
+    }
+    </style>
+    </head>
+    <body>
+    <div class="scrollmenu">
+      <a href="index.html">Home</a>
+      <a href="fan edits.html">fan edit(s)</a>
+      <a href="photo,s.html">photo(s)</a>
+      <a href="music.html">music</a>
+      <a href="contact.html">contact</a>
+      <a href="privacy.html">privacy</a>
+    </div>
+    </body>
+    <p style="font-size:30px">Home</p>
+    <center>
+    <body>
+      <p style="font-size:30px">kyomi</p>
+      <blockquote cite="">
+      Hello welcome to my site this is my portofolio
+      </blockquote>
+      </body>
+    <p style="font-size:30px">here you can find some of my projects</p>
+    <body>
+    <a href="https://www.arianagrand.co/">
+      <img src="website.png" alt="arianagrand.co" width="50" height="50">
+      <a href="https://www.moonstore.nl/">
+      <img src="website.png" alt="moonstore.nl" width="50" height="50">
+     
+      </body>
+    <p style="font-size:30px">you can find picture(s)</p>
+  
+    <img src="ariana 12.jpg" alt="ariana 12" width="500" height="400">
+    <p style="font-size:30px">you can find music and many more</p>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/nl/album/break-free-feat-zedd/1440852353?i=1440852687"></iframe>
+</center>
+<h4>*site still in beta so we are still working hard to make the site better</h4>
+<div class="scrollmenu">
+<h3>socials of ariana-grande</h3>
+  <a href="https://www.arianagrande.com/">
+      <img src="website.png" alt="arianagrande.com" width="50" height="50">
+      <a href="https://twitter.com/ArianaGrande">
+          <img src="twitter.png" alt="twitter.com/ArianaGrande" width="50" height="50">
+          <a href="https://www.facebook.com/arianagrande">
+            <img src="facebook.png" alt="facebook.com/ArianaGrande" width="50" height="50">
+            <a href="https://music.apple.com/us/artist/ariana-grande/412778295">
+              <img src="apple music.png" alt="music.apple.com/us/artist/ariana-grande/412778295" width="50" height="50">
+              <a href="https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR">
+                  <img src="spotify.png" alt="open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR" width="50" height="50">
+                  <a href="https://www.youtube.com/c/arianagrande">
+                      <img src="youtube.png" alt="youtube.com/c/arianagrande" width="50" height="50">
+      </a>
+    </div>
+</html>
